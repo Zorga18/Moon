@@ -6,9 +6,12 @@ excerpt: "A variety of projects I did as an undergrad at Stony Brook University.
 project: true
 tag:
 - SBU
-- telescope
-- project
-- exoplanets
+- Telescope
+- Exoplanets
+- AGN
+- Data Analysis
+- Black Holes
+- Neutron Stars
 comments: false
 ---
 
