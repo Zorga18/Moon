@@ -13,7 +13,7 @@ tag:
 - Black Holes
 - Neutron Stars
 comments: false
-feature: "https://you.stonybrook.edu/cdreyer/files/2018/09/stony-brook-21vy6v7.svg"
+feature: "http://www.astro.sunysb.edu/fwalter/SMARTS/NovaAtlas/zz_images/SBLogoCMYK3.gif"
 ---
 
 # Involvement: August 2017 - May 2021
