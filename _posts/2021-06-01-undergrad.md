@@ -13,7 +13,7 @@ tag:
 - Black Holes
 - Neutron Stars
 comments: false
-feature: "http://www.astro.sunysb.edu/fwalter/SMARTS/NovaAtlas/zz_images/SBLogoCMYK3.gif"
+feature: "https://www.miltonglaser.com/thumbs/665x408/files/zc/SBU_Logo-1934.jpg"
 ---
 
 # Involvement: August 2017 - May 2021
