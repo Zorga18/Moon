@@ -5,7 +5,7 @@ date: 2021-06-07
 excerpt: "Starting my Ph.D. in Astronomy at the University of Illinois Urbana-Champaign."
 tags: [Post, Update, UIUC, Announcement]
 comments: true
-feature: "https://pbs.twimg.com/media/Ei2N1iGU4AEm9a4.png:small"
+feature: "https://pbs.twimg.com/media/Ei2N1iGU4AEm9a4.png:medium"
 ---
 
 After a long (and great) four years at Stony Brook University, I've finally graduated summa cum laude with two Bachelor's in Science (Astronomy/Planetary Science and Physics), as well as a minor in Mathematics. I'm very proud of all of the work I've put in, all of the skils I've developed (personally and professionally), and all of the results I've gotten out of it. Going to University was my first step into adulthood: my first time living away from home, my first time challenging myself academically, my first time doing research, my first time truly finding a passion, and my first time finding likeminded people. I want to thank all of the people who brought me this far, including the faculty at SBU, my research advisors, my friends, and most importantly my family.
