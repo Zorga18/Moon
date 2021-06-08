@@ -4,7 +4,7 @@ title: "I'm Going to Illinois!"
 date: 2021-06-07
 excerpt: "Starting my Ph.D. in Astronomy at the University of Illinois Urbana-Champaign."
 tags: [Post, Update, UIUC, Announcement]
-comments: true
+comments: false
 feature: "https://marketing.illinois.edu/images/brand/design/logo/block-i-blue-background.png"
 ---
 
